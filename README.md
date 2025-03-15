@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/AhamadTheAnalyst/AhamadTheAnalyst/blob/main/data_analyst_logo.png" width="600">
+</p>
+
 # 👋 Hi, I'm Moh Ahamad  
 ### 🏆 Aspiring Data Analyst | AI & ML Enthusiast | JMI'26  
 
