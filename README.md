@@ -29,7 +29,11 @@
 
   
 
-💡 *Let's connect and grow together in the field of data analytics!* 🚀  
+💡 *Let's connect and grow together in the field of data analytics!* 🚀 
+
+📧 **Email:** [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.ahamad925@gmail.com)  
+🔗 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moh-ahamad1ai)  
+
 
 📧 **Email:** work.ahamad925@gmail.com  
 🔗 **LinkedIn:** [Moh Ahamad](https://www.linkedin.com/in/moh-ahamad1ai)  
