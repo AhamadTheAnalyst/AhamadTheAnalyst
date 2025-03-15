@@ -6,14 +6,25 @@
 🚀 Currently pursuing **M.Sc. in AI & ML at JMI**.  
 
 ---
+## 🛠️ Tech & Skills  
 
-## 🛠️ Tech Skills  
-📌 **Programming:** Python, SQL, Excel  
-📌 **Data Analysis:** Pandas, NumPy, Scikit-Learn  
-📌 **Visualization:** Power BI, Matplotlib, Seaborn  
-📌 **Machine Learning:** Classification, Regression  
-📌 **Statistics 
----
+### 🔹 Programming Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+### 🔹 Data Analytics & Visualization  
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-1f77b4?style=for-the-badge&logo=python&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge&logo=python&logoColor=white)  
+
+### 🔹 Machine Learning & Statistics  
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)  
+📌 **Statistics**: Hypothesis Testing, Probability, Linear Regression, Time Series Analysis  
+📌 **Machine Learning**: Classification, Regression, Clustering  
+📌 **Feature Engineering & Data Preprocessing**  
+
 
 ## 📈 GitHub Stats  
 ![Ahamad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhamadTheAnalyst&show_icons=true&theme=radical)  
