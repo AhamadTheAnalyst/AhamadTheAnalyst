@@ -25,9 +25,7 @@
 📌 **Machine Learning**: Classification, Regression, Clustering  
 📌 **Feature Engineering & Data Preprocessing**  
 
-
-## 📈 GitHub Stats  
-![Ahamad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhamadTheAnalyst&show_icons=true&theme=radical)  
+  
 
 💡 *Let's connect and grow together in the field of data analytics!* 🚀  
 
