@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/AhamadTheAnalyst/AhamadTheAnalyst/blob/main/Data Analyst GitHub Article Cover Image.png" width="100%">
+</p>
 
 
 # 👋 Hi, I'm Moh Ahamad  
