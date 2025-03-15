@@ -7,6 +7,10 @@
 📊 Exploring **Python, SQL, Power BI, and Data Visualization**.  
 🚀 Currently pursuing **M.Sc. in AI & ML at JMI**.  
 
+p align="center">
+  <img src="your-animation-url.gif" width="300">
+</p>
+
 ---
 ## 🛠️ Tech & Skills  
 
