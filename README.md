@@ -3,7 +3,7 @@
 </p>
 
 
-# 👋 Hi, I'm Moh Ahamad  
+# 👋 Hi, I'm  Ahamad  
 ### 🏆 Aspiring Data Analyst | AI & ML Enthusiast | JMI'26  
 
 🔍 Passionate about **Data Analytics**, **Machine Learning**, and **Business Insights**.  
