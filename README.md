@@ -8,7 +8,7 @@
 
 🔍 Passionate about **Data Analytics**, **Machine Learning**, and **Business Insights**.  
 📊 Exploring **Python, SQL, Power BI, and Data Visualization**.  
-🚀 Currently pursuing **M.Sc. in AI & ML at Jamia Millia Islamia Central University New Delhi**.  
+🚀 Currently pursuing **M.Sc. in Artificial Intelligence & Machine Learning at Jamia Millia Islamia Central University New Delhi**.  
 
 
 ---
