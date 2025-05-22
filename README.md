@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/AhamadTheAnalyst/AhamadTheAnalyst/blob/main/Data Analyst GitHub Article Cover Image.png" width="100%">
+  <img src="https://github.com/AhamadTheAnalyst/AhamadTheAnalyst/blob/main/Data Analyst GitHub Cover Image.png" width="100%">
 </p>
 
 
