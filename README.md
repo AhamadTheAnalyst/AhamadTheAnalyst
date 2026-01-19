@@ -13,7 +13,6 @@
   <a href="https://www.linkedin.com/in/moh-ahamad1ai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:work.ahamad925@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://github.com/AhamadTheAnalyst"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://komarev.com/ghpvc/?username=AhamadTheAnalyst&style=for-the-badge&color=6C63FF" alt="Profile Views"/>
 </p>
 
 <!-- Divider -->
