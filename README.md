@@ -135,6 +135,58 @@ me.say_hi()
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 📈 Core Competencies
+
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://cdn-icons-png.flaticon.com/512/2906/2906274.png" width="48" height="48" alt="Data Cleaning"/>
+      <br><strong>Data Cleaning</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn-icons-png.flaticon.com/512/1055/1055666.png" width="48" height="48" alt="EDA"/>
+      <br><strong>EDA</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn-icons-png.flaticon.com/512/2756/2756778.png" width="48" height="48" alt="Statistics"/>
+      <br><strong>Statistics</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn-icons-png.flaticon.com/512/10439/10439399.png" width="48" height="48" alt="A/B Testing"/>
+      <br><strong>A/B Testing</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" width="48" height="48" alt="Machine Learning"/>
+      <br><strong>Machine Learning</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://cdn-icons-png.flaticon.com/512/8637/8637911.png" width="48" height="48" alt="Deep Learning"/>
+      <br><strong>Deep Learning</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn-icons-png.flaticon.com/512/4712/4712035.png" width="48" height="48" alt="NLP"/>
+      <br><strong>NLP</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="48" height="48" alt="Feature Engineering"/>
+      <br><strong>Feature Engineering</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn-icons-png.flaticon.com/512/3094/3094918.png" width="48" height="48" alt="Data Storytelling"/>
+      <br><strong>Data Storytelling</strong>
+    </td>
+    <td align="center" width="150">
+      <img src="https://cdn-icons-png.flaticon.com/512/1493/1493169.png" width="48" height="48" alt="API Integration"/>
+      <br><strong>API Integration</strong>
+    </td>
+  </tr>
+</table>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🏆 Featured Projects
 
 ### 📌 Project Highlights
@@ -234,26 +286,6 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Microsoft-Generative_AI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/IBM-Data_Analytics_Python-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
   <img src="https://img.shields.io/badge/IBM-Machine_Learning-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
-</p>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📈 Core Competencies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🧹_Data_Cleaning-4285F4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📊_EDA-34A853?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📉_Statistics-EA4335?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🧪_A/B_Testing-FBBC04?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🤖_Machine_Learning-9333EA?style=for-the-badge"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/🧠_Deep_Learning-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/💬_NLP-0EA5E9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/⚙️_Feature_Engineering-10B981?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📖_Data_Storytelling-F43F5E?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🔌_API_Integration-6366F1?style=for-the-badge"/>
 </p>
 
 <!-- Divider -->
