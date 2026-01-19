@@ -136,24 +136,6 @@ me.say_hi()
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhamadTheAnalyst&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhamadTheAnalyst&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhamadTheAnalyst&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhamadTheAnalyst&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph"/>
-</p>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🏆 Featured Projects
 
 ### 📌 Project Highlights
@@ -387,7 +369,7 @@ me.say_hi()
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made_with-❤️-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Made_with-Ahamad-red?style=flat-square"/>
   <img src="https://img.shields.io/badge/Open_to-Opportunities-success?style=flat-square"/>
   <img src="https://img.shields.io/badge/Always-Learning-blue?style=flat-square"/>
 </p>
