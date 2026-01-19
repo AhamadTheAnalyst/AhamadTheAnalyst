@@ -368,7 +368,7 @@ me.say_hi()
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made_with-Ahamad-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Made_by-Ahamad-red?style=flat-square"/>
   <img src="https://img.shields.io/badge/Open_to-Opportunities-success?style=flat-square"/>
   <img src="https://img.shields.io/badge/Always-Learning-blue?style=flat-square"/>
 </p>
