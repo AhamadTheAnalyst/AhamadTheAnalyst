@@ -5,7 +5,7 @@
 
 <!-- Animated Typing -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+%F0%9F%91%8B+I'm+Moh+Ahamad;Data+Analyst+%7C+AI+%26+ML+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hi%2C+I+am+Ahamad+%F0%9F%91%8B;Data+Scientist+%26+Analyst+%7C+AI+Enthusiast" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social Badges -->
@@ -22,18 +22,22 @@
 ## 🚀 About Me
 
 ```python
-class DataAnalyst:
+class DataScientist:
     def __init__(self):
         self.name = "Moh Ahamad"
-        self.role = "Data Analyst | AI Researcher"
+        self.role = "Data Scientist & Analyst | AI Researcher"
         self.location = "New Delhi, India 🇮🇳"
         self.education = "M.Sc. AI & ML @ Jamia Millia Islamia (2024-2026)"
         self.current_work = "AI Evaluation Researcher @ Outlier"
         
+    def skills(self):
+        return ["Python", "SQL", "Machine Learning", "Deep Learning", 
+                "NLP", "Power BI", "Data Visualization", "Statistics"]
+        
     def say_hi(self):
         print("Thanks for visiting! Let's turn data into decisions 📊")
 
-me = DataAnalyst()
+me = DataScientist()
 me.say_hi()
 ```
 
@@ -42,7 +46,7 @@ me.say_hi()
 ### 💡 What I Do
 
 - 🔬 **AI Evaluation Research** - Designing prompts & evaluating LLMs
-- 📊 **Data Analytics** - Transforming raw data into actionable insights
+- 📊 **Data Science & Analytics** - Transforming raw data into insights
 - 🤖 **Machine Learning** - Building predictive models & NLP solutions
 - 📈 **Business Intelligence** - Creating interactive dashboards & reports
 - 🧠 **Deep Learning** - Neural networks for complex problem solving
@@ -65,8 +69,6 @@ me.say_hi()
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
 ### 📊 Data Analysis & Manipulation
@@ -74,7 +76,6 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
-  <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white" alt="Polars"/>
 </p>
 
 ### 📈 Data Visualization
@@ -84,7 +85,6 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Matplotlib-008080?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
-  <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker"/>
 </p>
 
 ### 🤖 Machine Learning & AI
@@ -112,8 +112,6 @@ me.say_hi()
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery"/>
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
 </p>
 
 ### 📋 Spreadsheets & BI Tools
@@ -122,15 +120,6 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets"/>
   <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="DAX"/>
   <img src="https://img.shields.io/badge/Power_Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power Query"/>
-</p>
-
-### ☁️ Cloud & Big Data
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark"/>
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
 </p>
 
 ### 🛠️ Tools & Deployment
@@ -142,7 +131,6 @@ me.say_hi()
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 </p>
 
 <!-- Divider -->
@@ -151,37 +139,22 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/AhamadTheAnalyst">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhamadTheAnalyst&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhamadTheAnalyst&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhamadTheAnalyst&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhamadTheAnalyst&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/AhamadTheAnalyst">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhamadTheAnalyst&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhamadTheAnalyst&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/AhamadTheAnalyst">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhamadTheAnalyst&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhamadTheAnalyst&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph"/>
 </p>
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/AhamadTheAnalyst?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhamadTheAnalyst&repo=Mobile-Sales-Dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Mobile Sales Dashboard"/>
-  </a>
-  <a href="https://github.com/AhamadTheAnalyst?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AhamadTheAnalyst&repo=House-Price-Prediction&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="House Price Prediction"/>
-  </a>
-</p>
 
 ### 📌 Project Highlights
 
@@ -405,11 +378,6 @@ me.say_hi()
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Let's%20Turn%20Data%20Into%20Decisions!&fontSize=24&fontColor=fff&animation=twinkling"/>
-</p>
-
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
