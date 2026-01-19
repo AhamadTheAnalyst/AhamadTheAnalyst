@@ -40,7 +40,7 @@ me = DataScientist()
 me.say_hi()
 ```
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Data Science" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 ### 💡 What I Do
 
@@ -242,52 +242,18 @@ me.say_hi()
 ## 📈 Core Competencies
 
 <p align="center">
-  <table align="center">
-    <tr>
-      <td align="center" width="150">
-        <img src="https://img.icons8.com/fluency/48/data-configuration.png" width="48" height="48"/>
-        <br><strong>Data Cleaning</strong>
-      </td>
-      <td align="center" width="150">
-        <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="48" height="48"/>
-        <br><strong>EDA</strong>
-      </td>
-      <td align="center" width="150">
-        <img src="https://img.icons8.com/fluency/48/statistics.png" width="48" height="48"/>
-        <br><strong>Statistics</strong>
-      </td>
-      <td align="center" width="150">
-        <img src="https://img.icons8.com/fluency/48/web-analystics.png" width="48" height="48"/>
-        <br><strong>A/B Testing</strong>
-      </td>
-      <td align="center" width="150">
-        <img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="48" height="48"/>
-        <br><strong>Machine Learning</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="150">
-        <img src="https://img.icons8.com/fluency/48/neural-network.png" width="48" height="48"/>
-        <br><strong>Deep Learning</strong>
-      </td>
-      <td align="center" width="150">
-        <img src="https://img.icons8.com/fluency/48/chat.png" width="48" height="48"/>
-        <br><strong>NLP</strong>
-      </td>
-      <td align="center" width="150">
-        <img src="https://img.icons8.com/fluency/48/pivot-table.png" width="48" height="48"/>
-        <br><strong>Feature Engineering</strong>
-      </td>
-      <td align="center" width="150">
-        <img src="https://img.icons8.com/fluency/48/storytelling.png" width="48" height="48"/>
-        <br><strong>Data Storytelling</strong>
-      </td>
-      <td align="center" width="150">
-        <img src="https://img.icons8.com/fluency/48/api-settings.png" width="48" height="48"/>
-        <br><strong>API Integration</strong>
-      </td>
-    </tr>
-  </table>
+  <img src="https://img.shields.io/badge/🧹_Data_Cleaning-4285F4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📊_EDA-34A853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📉_Statistics-EA4335?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🧪_A/B_Testing-FBBC04?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🤖_Machine_Learning-9333EA?style=for-the-badge"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🧠_Deep_Learning-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💬_NLP-0EA5E9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/⚙️_Feature_Engineering-10B981?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📖_Data_Storytelling-F43F5E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔌_API_Integration-6366F1?style=for-the-badge"/>
 </p>
 
 <!-- Divider -->
